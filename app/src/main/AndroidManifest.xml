@@ -16,9 +16,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".MirroringExampleActivity"/>
-        <activity android:name=".SingleTouchImageViewActivity"/>
-        <activity android:name=".SwitchImageExampleActivity"/>
-        <activity android:name=".SwitchScaleTypeExampleActivity"/>
         <activity android:name=".ViewPagerExampleActivity"/>
     </application>
 

@@ -7,6 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
+import com.example.mylibrary.TouchImageView;
+
 public class ViewPagerExampleActivity extends Activity {
 	
 	/**
